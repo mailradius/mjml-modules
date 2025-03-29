@@ -1,0 +1,14 @@
+<mj-section padding="10px 0px 0px 0px">
+      <mj-column>
+   <mj-text align="center" font-size="30px">Folow Us</mj-text>
+      <mj-divider border-width="1px" border-color="lightgrey"></mj-divider>
+         <mj-social icon-size="35px" mode="horizontal" >
+                              <mj-social-element name="youtube" href="https://youtube.com"></mj-social-element>
+                    <mj-social-element name="vimeo" href="https://vimeo.com"></mj-social-element>
+          <mj-social-element name="facebook" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="x" href="https://twitter.com"></mj-social-element>
+          <mj-social-element name="instagram" href="https://instagram.com"></mj-social-element>
+        </mj-social>
+
+      </mj-column>
+    </mj-section>

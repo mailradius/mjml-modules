@@ -1,0 +1,35 @@
+<mj-section padding="10px" padding-bottom="0px">
+<mj-column padding="0px">
+       <mj-text align="center" font-size="25px">We're here to help</mj-text>
+       <mj-text align="center" font-size="12px" color="#7F7F7F" padding="5px">Monday-Friday 9am-7pm ET</mj-text>
+       <mj-text align="center" font-size="12px" color="#7F7F7F" padding="5px">Saturday,Sunday 10am-6pm ET</mj-text>
+<mj-spacer/>
+        <mj-button  width="100%" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" border-radius="30px" inner-padding="0px">Contact Us</mj-button>
+        <mj-button width="100%" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" border-radius="30px" inner-padding="0px">Design Services</mj-button>
+        <mj-button width="100%" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" border-radius="30px" inner-padding="0px">Shipping + Returns</mj-button>
+        <mj-button width="100%" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" border-radius="30px" inner-padding="0px">Visit a Store</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+
+      <mj-column padding="10px">
+         <mj-text align="center" font-weight="normal" font-size="13px" color="#8F8F8F">
+          <p class="p1">You are receiving this email because you subscribed to our updates, made a recent purchase, or engaged with our services.</p>
+          <p class="p1">&nbsp;If you no longer wish to receive these emails, you can update your <a href="https://mailradius.com" style="color:#8F8F8F">preferences</a> or <a href="https://mailradius.com" style="color:#8F8F8F">unsubscribe</a> at any time.</p>
+
+        </mj-text>
+        <mj-social padding="10px 10px 10px 10px" icon-size="30px" align="center" icon-padding="5px">
+          <mj-social-element name="x-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060"></mj-social-element>
+          <mj-social-element name="youtube" href="https://mailradius.com" border-radius="20px" background-color="#606060"></mj-social-element>
+          <mj-social-element name="facebook-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060"></mj-social-element>
+          <mj-social-element name="instagram" border-radius="20px" background-color="#606060"></mj-social-element><mj-social-element name="vimeo" border-radius="20px" background-color="#606060"></mj-social-element>
+          <mj-social-element name="linkedin" border-radius="20px" background-color="#606060"></mj-social-element>
+        </mj-social>
+       <mj-button width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" color="#8F8F8F" background-color="transparent" text-decoration="underline">privacy policy</mj-button><mj-text align="center" font-weight="normal" font-size="13px" color="#8F8F8F">
+          <div>@2049 company, inc</div>
+          <div>address, street, city, zip</div>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,14 @@
+<mj-section>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-image 
+          href="https://mailradius.com"
+          width="150px"
+          src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/66a889e17a0680dc76d4e8bf.png" 
+          alt="Logo" 
+          align="left" 
+          padding="0" />
+      </mj-column>    
+      <mj-column width="70%" vertical-align="middle">
+         <mj-text align="right"><h2>Weekly Newsletter</h2></mj-text>
+      </mj-column>
+    </mj-section>

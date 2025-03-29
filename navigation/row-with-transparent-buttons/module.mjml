@@ -1,0 +1,14 @@
+<mj-section background-color="#bfbfbf">
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0">BAKING</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0">COOKING</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0">FRYING</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button href="https://mailradius.com" padding="0" background-color="transparent">SWEETS</mj-button>
+    </mj-column>
+</mj-section>

@@ -1,0 +1,7 @@
+<mj-section padding="10px">
+      <mj-column width="100%" vertical-align="middle"  border-radius="8px" background-color="#e8f9f9">
+        <mj-text  padding="20px"  font-size="16px" align="center" >
+      Don’t miss our Cyber Week Sale! <a href="https://mailradius.com">Shop now</a>
+    </mj-text>
+      </mj-column>
+    </mj-section>

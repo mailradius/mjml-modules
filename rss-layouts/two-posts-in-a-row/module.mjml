@@ -1,0 +1,22 @@
+<mj-section padding="5px">
+    <mj-column>
+        <mj-image padding="5px" href="{{sources[0].posts[0].link}}" src="{{sources[0].posts[0].imageURL}}">
+        </mj-image>
+        <mj-text align="left" padding="5px" font-size="16px" font-weight="bold">
+                {{ sources[0].posts[0].title }}
+        </mj-text>
+        <mj-text padding="5px">
+             {{ sources[0].posts[0].content | truncate(100)}}
+        </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-image padding="5px" href="{{sources[0].posts[1].link}}" src="{{sources[0].posts[1].imageURL}}">
+        </mj-image>
+        <mj-text align="left" padding="5px" font-size="16px" font-weight="bold">
+                {{ sources[0].posts[1].title }}
+        </mj-text>
+        <mj-text padding="5px">
+             {{ sources[0].posts[1].content | truncate(100)}}
+        </mj-text>
+    </mj-column>
+</mj-section>

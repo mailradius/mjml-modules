@@ -1,0 +1,11 @@
+<mj-section>
+      <mj-column>
+<mj-carousel>
+          <mj-carousel-image src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/6784fdb7c46e683e3387fd9a.png"></mj-carousel-image>
+          <mj-carousel-image src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/6784fd3dc46e683e3387fd64.png"></mj-carousel-image>
+          <mj-carousel-image src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/6784fd3dc46e683e3387fd6a.png"></mj-carousel-image>
+          <mj-carousel-image src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/6784fd3dc46e683e3387fd5e.png"></mj-carousel-image>
+
+        </mj-carousel>
+      </mj-column>
+    </mj-section>

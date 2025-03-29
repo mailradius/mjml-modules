@@ -1,0 +1,17 @@
+<mj-section padding="10px">
+   <mj-column>     
+      <mj-image padding="5px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image> 
+   </mj-column>
+   <mj-column>     
+      <mj-image padding="5px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image> 
+   </mj-column>
+   <mj-column>     
+      <mj-image padding="5px"  src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image> 
+   </mj-column>
+   <mj-column>     
+      <mj-image padding="5px"  src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image> 
+   </mj-column>
+   <mj-column>     
+      <mj-image padding="5px"  src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image> 
+   </mj-column>
+</mj-section>

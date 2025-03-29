@@ -1,0 +1,30 @@
+<mj-section padding="0px">
+    <mj-column padding="0px">
+                <mj-image src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/67af3803d13dbdc9d64a52c5.png" width="200px" alt="logo" padding-bottom="30px"></mj-image>
+      <mj-divider padding="15px" border-color="#000000" border-width="1px"></mj-divider>
+    </mj-column>
+  </mj-section>
+<mj-section padding="0px">
+    <mj-column padding="0px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" background-color="transparent" color="#000000">show now title 1</mj-button>
+      <mj-divider padding="15px" border-color="#000000" border-width="1px"></mj-divider>
+    </mj-column> 
+</mj-section>
+<mj-section padding="0px">
+    <mj-column padding="0px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" background-color="transparent" color="#000000">show now title 2</mj-button>
+      <mj-divider padding="15px" border-color="#000000" border-width="1px"></mj-divider>
+    </mj-column> 
+</mj-section>
+<mj-section padding="0px">
+    <mj-column padding="0px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" background-color="transparent" color="#000000">show now title 3</mj-button>
+      <mj-divider padding="15px" border-color="#000000" border-width="1px"></mj-divider>
+    </mj-column> 
+</mj-section>
+<mj-section padding="0px">
+    <mj-column padding="0px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" background-color="transparent" color="#000000">show now title 4</mj-button>
+      <mj-divider padding="15px" border-color="#000000" border-width="1px"></mj-divider>
+    </mj-column> 
+</mj-section>

@@ -1,0 +1,53 @@
+<mj-section padding="0px">
+
+      <mj-column width="50%" padding="0px">
+        <mj-button width="100%" href="https://mailradius.com" text-transform="uppercase" color="#000000" border="2px solid #606060" background-color="#FFFFFF" border-radius="30px" inner-padding="15px">shop deals</mj-button>
+      </mj-column>
+      <mj-column width="50%" padding="0px" border="2px solid #FFFFFF">
+        <mj-button width="100%" href="https://mailradius.com" text-transform="uppercase" color="#000000" border="2px solid #606060" background-color="#FFFFFF" border-radius="30px" inner-padding="15px">best sellers</mj-button>
+      </mj-column>
+    </mj-section>
+<mj-section padding="0px">
+
+      <mj-column width="50%" padding="0px" border="2px solid #FFFFFF">
+        <mj-button width="100%" href="https://mailradius.com" text-transform="uppercase" color="#000000" border="2px solid #606060" background-color="#FFFFFF" border-radius="30px" inner-padding="15px">shop brands</mj-button>
+      </mj-column>
+      <mj-column width="50%" padding="0px" border="2px solid #FFFFFF">
+        <mj-button width="100%" href="https://mailradius.com" text-transform="uppercase" color="#000000" border="2px solid #606060" background-color="#FFFFFF" border-radius="30px" inner-padding="15px">
+                new Arrivals</mj-button>
+      </mj-column>
+    </mj-section><mj-section>
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0" color="#000000" text-transform="uppercase" text-decoration="underline">Account</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0" color="#000000" text-transform="uppercase" text-decoration="underline">help</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button background-color="transparent" href="https://mailradius.com" padding="0" color="#000000" text-transform="uppercase" text-decoration="underline">rewards</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top">
+        <mj-button href="https://mailradius.com" padding="0" background-color="transparent" color="#000000" text-transform="uppercase" text-decoration="underline">blog</mj-button>
+    </mj-column>
+</mj-section><mj-section padding="0px">
+
+      <mj-column border="2px solid #FFFFFF" padding-top="10px" padding-bottom="0px">
+        <mj-image width="100px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/67b5c94815afa55ef2b976e6.png"></mj-image>
+      </mj-column>
+
+    </mj-section>
+    <mj-section padding="0px">
+
+      <mj-column padding="10px">
+        <mj-social icon-size="30px" align="center" icon-padding="5px" padding="0px"><mj-social-element name="facebook-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060" padding="20px"></mj-social-element><mj-social-element name="youtube-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060" padding="20px"></mj-social-element><mj-social-element name="instagram" border-radius="20px" background-color="#606060" padding="20px"></mj-social-element><mj-social-element name="pinterest" background-color="#606060" padding="20px" border-radius="20px"></mj-social-element></mj-social>
+        <mj-text align="center" font-weight="normal" font-size="13px" color="#8F8F8F">
+          <p class="p1">You are receiving this email because you subscribed to our updates, made a recent purchase, or engaged with our services.</p>
+          <p class="p1">&nbsp;If you no longer wish to receive these emails, you can update your <a href="https://mailradius.com" style="color:#8F8F8F">preferences</a> or <a href="https://mailradius.com" style="color:#8F8F8F">unsubscribe</a> at any time.</p>
+
+        </mj-text><mj-button width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase" color="#8F8F8F" background-color="transparent" text-decoration="underline">privacy policy</mj-button><mj-text align="center" font-weight="normal" font-size="13px" color="#8F8F8F">
+          <div>@2049 company, inc</div>
+          <div>address, street, city, zip</div>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,20 @@
+<mj-section padding="30px">
+  <mj-column  vertical-align="middle" >
+    <mj-text font-size="35px" font-weight="bold" padding="0px 0px 25px 0px" align="center">
+      We value your feedback 
+    </mj-text>
+    <mj-text  align="center" font-size="16px" color="#515856" padding="0px 0px 15px 0px">
+       Help us improve our new product line by answering a few quick questions. A thank you gift awaits you at the end! .
+    </mj-text>
+    <mj-button
+      padding="20px 0px"
+      href="https://mailradius.com"
+      align="center"
+      color="#ffffff"
+      font-size="14px"
+      width="160px"
+    >
+      Begin
+    </mj-button>
+  </mj-column>
+</mj-section>

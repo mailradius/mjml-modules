@@ -1,0 +1,18 @@
+<mj-section padding="40px">
+	<mj-column>
+		<mj-image width="32px" align="left" padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fd55b9e55d27e88d56ed4.png"></mj-image>
+		<mj-text font-size="18px" font-weight="bold" padding="10px 0px 10px 0px" >
+			Time saver
+		</mj-text>
+		<mj-text font-size="15px" color="#555555" padding="0px"> Save a lot of time building your newsletter.</mj-text>
+	</mj-column>
+	<mj-column >
+		<mj-image width="32px" align="left" padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fd6219e55d27e88d56eec.png"></mj-image>
+		<mj-text font-size="18px" font-weight="bold" padding="10px 0px 10px 0px" >
+			Time saver
+		</mj-text>
+		<mj-text  font-size="15px" color="#555555" padding="0px"> Save a lot of time building your newsletter.</mj-text>
+	</mj-column>
+</mj-section>

@@ -1,0 +1,23 @@
+<mj-section padding="10px" padding-bottom="0px">
+<mj-column padding="0px">
+       <mj-image width="120px" padding-bottom="30px" align="left" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/67b5c94815afa55ef2b976e6.png"/>
+        <mj-button text-transform="uppercase"  align="left" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" inner-padding="0px">Shop All Products</mj-button>
+        <mj-button text-transform="uppercase"  align="left" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" inner-padding="0px">Our Methods</mj-button>
+        <mj-button  text-transform="uppercase" align="left" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" inner-padding="0px">Our Story</mj-button>
+        <mj-button  text-transform="uppercase" align="left" font-size="20px" href="https://mailradius.com"  color="#7F7F7F"  background-color="transparent" inner-padding="0px">Contact Us</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+
+      <mj-column padding="10px">
+       
+        <mj-social icon-size="20px" align="left" icon-padding="5px" padding="0px"><mj-social-element name="facebook-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060" padding-left="20px"></mj-social-element><mj-social-element name="youtube-noshare" href="https://mailradius.com" border-radius="20px" background-color="#606060" ></mj-social-element><mj-social-element name="instagram" border-radius="20px" background-color="#606060"></mj-social-element><mj-social-element name="pinterest" background-color="#606060" border-radius="20px"></mj-social-element></mj-social>
+
+<mj-text align="left" font-weight="normal" font-size="13px" color="#8F8F8F" padding-top="30px">
+          <div>@2049 company, inc</div>
+          <div>address, street, city, zip</div>
+        </mj-text>
+       <mj-button align="left" href="https://mailradius.com" padding="0" text-transform="uppercase" color="#8F8F8F" background-color="transparent" text-decoration="underline">unsubscribe</mj-button>
+      </mj-column>
+    </mj-section>

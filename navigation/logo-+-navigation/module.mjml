@@ -1,0 +1,21 @@
+<mj-section padding="0px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-image 
+          href="https://mailradius.com"
+          width="150px"
+          src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/66a889e17a0680dc76d4e8bf.png" 
+          alt="Logo" 
+          align="center" 
+          padding="0" />
+      </mj-column>
+</mj-section>
+<mj-section padding="0px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-navbar base-url="https://mailradius.com">
+          <mj-navbar-link href="#">Home</mj-navbar-link>
+          <mj-navbar-link href="#">About</mj-navbar-link>
+          <mj-navbar-link href="#">Services</mj-navbar-link>
+          <mj-navbar-link href="#">Contact</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>

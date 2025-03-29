@@ -1,0 +1,10 @@
+<mj-section padding="10px">
+      <mj-column width="70%">
+        <mj-text padding-top="0px" font-size="25px">{{ sources[0].post[0].title }}</mj-text>
+        <mj-text>{{sources[0].posts[0].content | truncate(200) }}</mj-text>
+        <mj-text>{{sources[0].posts[0].isoDate | formatDate('MMM D, YYYY') }}</mj-text>
+      </mj-column>
+      <mj-column width="30%">
+        <mj-image padding="0px" href="{{sources[0].posts[0].link}}" src="{{sources[0].posts[0].imageURL}}"></mj-image>
+      </mj-column>
+    </mj-section>

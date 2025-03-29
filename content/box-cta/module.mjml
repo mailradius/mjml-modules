@@ -1,0 +1,17 @@
+<mj-wrapper padding="20px"> 
+      <mj-section background-color="#e6e7f0" padding="2px" border-radius="20px">
+        <mj-column padding="20px" border-radius="20px" background-color="#fff">
+<mj-text font-size="35px" font-weight="bold">
+      Introduce your product
+    </mj-text>
+          <mj-text font-size="16px" align="center" color="#515856">
+            This is a section with a truly rounded solid border.
+          </mj-text>
+
+          <mj-button 
+            href="https://mailradius.com">
+            Button
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      </mj-wrapper>

@@ -1,0 +1,15 @@
+<mj-hero
+      background-url=
+          "https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677e47b9f4c682c0c12b7d73.png"
+      background-color="#2a3448"
+      padding="70px 0px">
+      <mj-text
+        color="#ffffff"
+        align="center"
+        font-size="45px">
+        Introduce your product
+      </mj-text>
+      <mj-button href="https://mailradius.com" align="center">
+         CALL TO ACTION 
+      </mj-button>
+    </mj-hero>

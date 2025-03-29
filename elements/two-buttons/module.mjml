@@ -1,0 +1,8 @@
+<mj-section>
+      <mj-column width="50%">
+        <mj-button width="200px" href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-button  width="200px" href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+</mj-section>

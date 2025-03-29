@@ -1,0 +1,26 @@
+<mj-section>
+<mj-column>
+<mj-image   src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/67813603ccc82ea8922e7414.png"></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-text font-size="30px" font-weight="bold" padding-left="0" align="left">
+      Product name
+    </mj-text>
+    <mj-text  align="left" font-size="15px" color="#555555" padding="0px 0px 10px 0px" line-height="150%">
+      Describe your product in way the highlights how it will benefit your readers.
+    </mj-text>
+    <mj-text padding="0px" align="left" font-size="18px">
+        <b>$99</b> <s>$129</s>
+    </mj-text>
+    <mj-button
+      padding="20px 0"
+      href="https://mailradius.com"
+      align="left"
+      color="#ffffff"
+      font-size="14px"
+      width="160px"
+    >
+      Buy Now
+    </mj-button>
+  </mj-column>
+</mj-section>

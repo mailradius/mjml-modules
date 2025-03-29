@@ -1,0 +1,13 @@
+<mj-section>
+ <mj-column width="25%" padding="0px" >
+ <mj-image align="left" padding="0px" width="80px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/6773bbf4ed54a7d1b898646a.png"></mj-image>
+</mj-column>
+  <mj-column >
+<mj-text align="left" font-size="16px" padding="0px">
+ Best regards<br/>
+Name, Position<br/>
+your@email.com<br/>
+001234567 
+</mj-text>
+  </mj-column>
+</mj-section>

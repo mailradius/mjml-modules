@@ -1,0 +1,9 @@
+<mj-section padding="10px">
+      <mj-column width="40%">
+        <mj-image border-radius="20px" padding="0px" href="{{sources[0].posts[0].link}}" src="{{sources[0].posts[0].imageURL}}"></mj-image>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text padding-top="0px" font-size="25px">{{ sources[0].posts[0].title }}</mj-text>
+        <mj-text>{{sources[0].posts[0].content | truncate(200)}} <a href="{{sources[0].posts[0].link}}"  style="margin-left: 10px;color: #000000; text-decoration: underline">Read More.</a></mj-text>
+      </mj-column>
+    </mj-section>

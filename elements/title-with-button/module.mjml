@@ -1,0 +1,10 @@
+<mj-section>
+      <mj-column width="70%" vertical-align="middle">
+      <mj-text font-size="30px" font-weight="bold">
+      Introduce your product
+    </mj-text>
+      </mj-column>    
+      <mj-column width="30%" vertical-align="middle">
+        <mj-button align="right"  href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+    </mj-section>

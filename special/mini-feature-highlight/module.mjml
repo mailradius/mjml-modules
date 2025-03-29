@@ -1,0 +1,17 @@
+<mj-section padding="40px">
+	<mj-column width="10%">
+		<mj-image width="32px" align="left" padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fd55b9e55d27e88d56ed4.png"></mj-image>
+
+	</mj-column>
+	<mj-column width="40%">		
+		<mj-text font-size="14px" color="#555555" padding="0px"> Save a lot of time building your newsletter.</mj-text>
+	</mj-column>
+	<mj-column width="10%" >
+		<mj-image width="32px" align="left" padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fd5c89e55d27e88d56ee0.png"></mj-image>
+	</mj-column>
+	<mj-column width="40%">		
+		<mj-text  font-size="14px" color="#555555" padding="0px"> Save a lot of time building your newsletter.</mj-text>
+	</mj-column>
+</mj-section>

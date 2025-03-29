@@ -1,0 +1,31 @@
+<mj-section>
+	<mj-column width="33%" padding="15px">
+		<mj-image padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677e47b9f4c682c0c12b7d73.png"></mj-image>
+
+		<mj-text font-size="18px" font-weight="bold" padding="10px 0px 10px 0px" align="left">
+			Compelling headline
+		</mj-text>
+		<mj-text align="left" font-size="16px" color="#555555" padding="0px"> Add your
+			description</mj-text>
+	</mj-column>	<mj-column width="33%" padding="15px">
+		<mj-image padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677e47b9f4c682c0c12b7d73.png"></mj-image>
+
+		<mj-text font-size="18px" font-weight="bold" padding="10px 0px 10px 0px" align="left">
+			Compelling headline
+		</mj-text>
+		<mj-text align="left" font-size="16px" color="#555555" padding="0px"> Add your
+			description</mj-text>
+	</mj-column>
+	<mj-column width="33%" padding="15px">
+		<mj-image padding="0px"
+			src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677e47b9f4c682c0c12b7d73.png"></mj-image>
+
+		<mj-text font-size="18px" font-weight="bold" padding="10px 0px 10px 0px" align="left">
+			Compelling headline
+		</mj-text>
+		<mj-text align="left" font-size="16px" color="#555555" padding="0px"> Add your
+			description</mj-text>
+	</mj-column>
+</mj-section>

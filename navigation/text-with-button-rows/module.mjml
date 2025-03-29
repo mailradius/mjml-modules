@@ -1,0 +1,20 @@
+<mj-section>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-text  align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</mj-text>
+    </mj-column>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase">show now title1</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase">show now title2</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase">show now title3</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase">show now title4</mj-button>
+    </mj-column>
+    <mj-column vertical-align="top" width="100%" padding="5px">
+        <mj-button  width="100%" href="https://mailradius.com" padding="0" text-transform="uppercase">show now title5</mj-button>
+    </mj-column>
+</mj-section>

@@ -1,0 +1,19 @@
+<mj-section padding="30px">
+      <mj-column>
+        <mj-image padding="0px" href="{{sources[0].posts[0].link}}" src="{{sources[0].posts[0].imageURL}}" border-radius="20px"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 10px 0px 10px">
+      <mj-column >
+        <mj-text  align="center" font-size="26px" font-weight="bold" line-height="34px" >
+          {{sources[0].posts[0].title}}
+        </mj-text>
+        <mj-text align="center" font-size="15px" line-height="24px">
+          {{sources[0].posts[0].content | truncate(100)}}
+        </mj-text>
+        <mj-button width="200px" align="center" color="#FFFFFF" background-color="#000000" font-size="18px" line-height="24px" href="{{sources[0].posts[0].link}}" border-radius="10px">
+          Read More
+        </mj-button>
+        <mj-spacer></mj-spacer>
+      </mj-column>
+    </mj-section>

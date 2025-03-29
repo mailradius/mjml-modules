@@ -1,0 +1,20 @@
+<mj-section padding="30px">
+  <mj-column  vertical-align="middle" >
+<mj-image padding="0px" width="600px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677ea096524c10b7454fff0f.png"></mj-image>
+    <mj-text font-size="30px" font-weight="bold" padding="20px 0px 20px 0px" align="left">
+      Introduce your product
+    </mj-text>
+    <mj-text  align="left" font-size="14px" color="#555555" padding="0 ">
+      Add your description or content here. This text can include details about your product, service, or any relevant message you want to convey.
+    </mj-text>
+    <mj-button
+      padding="20px 0"
+      href="https://mailradius.com"
+      align="left"
+      color="#ffffff"
+      font-size="14px"
+    >
+      Button
+    </mj-button>
+  </mj-column>
+</mj-section>

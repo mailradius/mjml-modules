@@ -1,0 +1,33 @@
+<mj-section padding="30px 10px 0px 0px">
+      <mj-column>
+        <mj-image padding="0"  src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/67d54b9a503fada170857f5f.png" alt="Company Logo" width="125px"   align="center" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 0px 0px 0px">
+      <mj-column>
+        <mj-social icon-size="35px" mode="horizontal" >
+                              <mj-social-element name="youtube" href="https://youtube.com"></mj-social-element>
+                    <mj-social-element name="vimeo" href="https://vimeo.com"></mj-social-element>
+          <mj-social-element name="facebook" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="x" href="https://twitter.com"></mj-social-element>
+          <mj-social-element name="instagram" href="https://instagram.com"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="center" font-size="20px" font-weight="bold">
+          Company name
+        </mj-text>
+        <mj-text align="center" font-size="14px" color="#515856">
+          postal address here
+        </mj-text>
+        <mj-text padding="10px 50px 20px 50px" align="center" font-size="14px" color="#555">
+          You received this email because you signed up on our website or made a purchase from us.
+        </mj-text>
+        <mj-text align="center" font-size="12px" color="#555">
+          <a href="https://mailradius.com" style="color: #555; text-decoration: underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>

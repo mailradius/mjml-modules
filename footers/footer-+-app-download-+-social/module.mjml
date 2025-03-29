@@ -1,0 +1,45 @@
+<mj-section padding="20px 0px 0px 0px">
+<mj-column>
+  <mj-text align="left" font-size="18px" font-weight="bold">
+          Your Name
+        </mj-text>
+        <mj-text align="left" font-size="15px" color="#515856" line-height="150%">
+          Address, City<br> Country
+        </mj-text>
+<mj-text font-size="14px" line-height="150%">
+You received this email because you signed up on our website or made a purchase from us.
+</mj-text>
+<mj-text font-weight="bold" font-size="18px" padding="10px 25px 10px">
+Use our app on the go
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-section padding="0px 0px 0px 25px">
+  <mj-column width="25%">
+    <mj-image padding="0px" align="left" height="38px" width="120px"  src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fc0989e55d27e88d56cfc.png"></mj-image>
+  </mj-column>
+ <mj-column padding="0" width="75%">
+    <mj-image  align="left"  padding="0" height="38px" width="120px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fc0b59e55d27e88d56d08.png"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section padding="20px 0px 0px 0px">
+  <mj-column>
+  <mj-divider border-width="1px" border-color="lightgrey" />
+  </mj-column>
+</mj-section>
+<mj-section padding="20px 0px 20px 0px">
+      <mj-column >
+        <mj-text align="left" font-size="15px" color="#555">
+          <a href="https://mailradius.com" style="color: #555; text-decoration: underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+<mj-column>
+ <mj-social icon-size="30px" mode="horizontal" >
+                              <mj-social-element name="youtube" href="https://youtube.com"></mj-social-element>
+                    <mj-social-element name="vimeo" href="https://vimeo.com"></mj-social-element>
+          <mj-social-element name="facebook" href="https://facebook.com"></mj-social-element>
+          <mj-social-element name="x" href="https://twitter.com"></mj-social-element>
+          <mj-social-element name="instagram" href="https://instagram.com"></mj-social-element>
+        </mj-social>
+</mj-column>
+</mj-section>

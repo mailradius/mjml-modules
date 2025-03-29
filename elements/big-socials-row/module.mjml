@@ -1,0 +1,10 @@
+<mj-section background-color="#f8f8f8">
+
+    <mj-column>
+        <mj-social icon-size="20px" mode="horizontal">
+            <mj-social-element name="facebook" href="https://facebook.com" icon-size="35px"></mj-social-element>
+            <mj-social-element name="x" href="https://twitter.com" icon-size="35px"></mj-social-element>
+            <mj-social-element name="instagram" href="https://instagram.com" icon-size="35px"></mj-social-element>
+            <mj-social-element name="pinterest" icon-size="35px"></mj-social-element><mj-social-element name="medium" icon-size="35px"></mj-social-element></mj-social>
+    </mj-column>
+</mj-section>

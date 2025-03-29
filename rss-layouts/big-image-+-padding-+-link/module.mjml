@@ -1,0 +1,21 @@
+<mj-section padding="10px 10px 0px 10px">
+      <mj-column>
+        <mj-image href="{{sources[0].posts[0].link}}" src="{{sources[0].posts[0].imageURL}}"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 10px 0px 10px">
+      <mj-column >
+        <mj-text font-size="26px" font-weight="bold" line-height="34px" >
+          {{sources[0].posts[0].title}}
+        </mj-text>
+        <mj-text font-size="12px" color="#aaaaaa" padding-top="0px" padding-bottom="0px">
+          {{sources[0].posts[0].isoDate  | formatDate("MMM D, YYYY")}}
+        </mj-text>
+        <mj-text padding-bottom="0px" font-size="15px" line-height="24px">
+         {{ sources[0].posts[0].content | truncate(200)}}
+        </mj-text>
+        <mj-button align="left" text-decoration="underline" color="#1c6dfb" background-color="transparent" font-size="15px" line-height="24px" padding="0px" href="{{sources[0].posts[0].link}}">
+          Read More
+        </mj-button>
+      </mj-column>
+    </mj-section>

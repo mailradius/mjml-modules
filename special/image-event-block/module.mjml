@@ -1,0 +1,24 @@
+<mj-section padding="20px"  >
+  <mj-column padding="30px" background-color="#e8f9f9" border-radius="20px">
+  <mj-image padding="0px 0px 10px 0px " width="80px" src="https://mailradiusuploads.nyc3.cdn.digitaloceanspaces.com/66a87c38dc55ac33c600b22a/uploads/677fce139e55d27e88d56de1.png"></mj-image>
+<mj-text align="center" font-size="16px" padding="0px">
+ <h3>
+NAME, POSITION</h3>
+Campaign manager
+</mj-text>
+  </mj-column>
+  <mj-column padding="10px">
+<mj-text align="center" font-weight="bold" font-size="16px" padding="10px">
+ EVENT
+</mj-text>
+<mj-text align="center" font-weight="bold" font-size="24px" padding="10px">
+ Guest Lecture
+</mj-text>
+<mj-text align="center" color="#515856" font-size="16px" padding="10px">
+ Write event description here
+</mj-text>
+<mj-button padding="30px" inner-padding="15px 35px" font-size="14px" border-radius="8px">
+Save my spot
+</mj-button>
+  </mj-column>
+</mj-section>

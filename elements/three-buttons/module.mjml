@@ -1,0 +1,11 @@
+<mj-section>
+      <mj-column width="33%">
+        <mj-button align="right"  width="150px" href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-button align="center" width="150px" href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+      <mj-column width="33%">
+        <mj-button align="left" width="150px" href="https://mailradius.com">Button</mj-button>
+      </mj-column>
+</mj-section>
